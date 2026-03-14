@@ -1,4 +1,4 @@
-# Gemini AI Chatbot using Flask
+# Gemini AI Chatbot using Flask.
 
 A simple **AI chatbot web application** built using **Python, Flask, HTML, CSS, JavaScript, and Google Gemini API**.
 The chatbot allows users to send messages through a web interface and receive AI-generated responses in real time.
